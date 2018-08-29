@@ -1,0 +1,24 @@
+{
+    "name": "komatsu98/random-string",
+    "description": "The package create random string created by Komatsu.",
+    "keywords": ["random", "string", "composer", "package"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Komatsu",
+            "email": "chemgiosa5@gmail.com"
+        }
+    ],
+    "type": "project",
+    "require": {
+		"php": ">=5.4"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
+    },
+	"autoload": {
+        "psr-4": {
+            "komatsu98\\RandomString\\": "src/"
+        }
+    }
+}
