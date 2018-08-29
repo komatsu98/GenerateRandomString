@@ -1,15 +1,11 @@
-Composer Library Template
+Generate Random String
 =========================
 
-If you are trying to create a new PHP Composer library, whether it will be going to submitted to packagist.org or just in your Github account, this template of files will surely help you make the process a lot easier and faster.
+Generate random string with given length, types of characters.
 
 Features
 --------
 
-* PSR-4 autoloading compliant structure
-* Unit-Testing with PHPUnit
-* Comprehensive Guides and tutorial
-* Easy to use to any framework or even a plain php file
+* Function generateString($length, $has_lower, $has_upper, $has_number, $has_special_character) with parameters: length - positive integer and 4 followed boolean data params. 
+ e.g: generateString("10",true, false, true, false) return a 10-character random string with lower characters, numbers, and special characters combined.
 
-
-I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
