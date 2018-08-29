@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc47de6a-bd90-40ac-9638-69339821598e" name="Default" comment="">
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+>>>>>>> 1bbe20964bd8672c3dc89d9da499a13bcda5b579
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +43,11 @@
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
+<<<<<<< HEAD
               <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+=======
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+>>>>>>> 1bbe20964bd8672c3dc89d9da499a13bcda5b579
             </state>
           </provider>
         </entry>
@@ -170,12 +179,20 @@
       <option name="presentableId" value="Default" />
       <updated>1535525984651</updated>
       <workItem from="1535525986043" duration="3643000" />
+<<<<<<< HEAD
       <workItem from="1535529771209" duration="1493000" />
+=======
+      <workItem from="1535529771209" duration="1242000" />
+>>>>>>> 1bbe20964bd8672c3dc89d9da499a13bcda5b579
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5136000" />
+=======
+    <option name="totallyTimeSpent" value="4885000" />
+>>>>>>> 1bbe20964bd8672c3dc89d9da499a13bcda5b579
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1037" extended-state="6" />
@@ -260,7 +277,11 @@
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
+<<<<<<< HEAD
           <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+=======
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+>>>>>>> 1bbe20964bd8672c3dc89d9da499a13bcda5b579
         </state>
       </provider>
     </entry>
