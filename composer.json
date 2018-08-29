@@ -2,7 +2,7 @@
     "name": "komatsu98/random-string",
     "description": "The package create random string created by Komatsu.",
     "keywords": ["random", "string", "composer", "package"],
-    "license": "DBAD",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Komatsu",
